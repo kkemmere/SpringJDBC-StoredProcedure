@@ -1,7 +1,7 @@
 # SpringJDBC-StoredProcedure
 **Intro to Spring JDBC**. (MySQL & Java)<br/>
 
-**Beansn**: The objects that form the backbone of your application and that are managed by the Spring IoC container are called beans. A bean is an object that is instantiated, assembled, and otherwise managed by a Spring IoC container. These beans are created with the configuration metadata that you supply to the container. sc: https://www.tutorialspoint.com/spring/spring_bean_definition.htm<br/>
+**Beans**: The objects that form the backbone of your application and that are managed by the Spring IoC container are called beans. A bean is an object that is instantiated, assembled, and otherwise managed by a Spring IoC container. These beans are created with the configuration metadata that you supply to the container. sc: https://www.tutorialspoint.com/spring/spring_bean_definition.htm<br/>
 
 **Spring IoC (Inversion of Control)** container in the case of this program simply instantiates and assembles the MySQL database connection for our ProductDAO class to use.<br/>
 
