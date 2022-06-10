@@ -10,7 +10,7 @@ Created by Kevin Kemmerer
 
 
 # Program being run using Eclipse IDE
-![jdbc1](https://github.com/kkemmere/JDBC-StoredProcedure/blob/main/Screen%20Shot%202022-05-26%20at%202.49.47%20AM.png)
+![jdbc1](https://github.com/kkemmere/SpringJDBC-StoredProcedure/blob/main/Screen%20Shot%202022-06-09%20at%207.52.22%20PM.png)
 <br/>
 
 
